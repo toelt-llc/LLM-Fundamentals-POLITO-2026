@@ -41,3 +41,14 @@ Politecnico di Torino, with Prof. Marco A. Deriu
 
 - **HANDS-ON**: Modify the embedding code with a longer texts and test it out.
 
+
+**Retrieval Augmented Generation** (inlcuding Day 2)
+
+- Fundamental conmcepts
+- **DEMO** Rag system ([📓 Jupyter Notebook](code/simple-rag-demo-v1.ipynb))
+- **DEMO** Langchain RAG demo ([📓 Jupyter Notebook](code/langchain-rag-demo-v1.ipynb))
+
+**OPTIONAL MATERIAL**
+
+- **DEMO** Protein LLM Demo ([📓 Jupyter Notebook](code/proteins-llm-demo-v1.ipynb))
+- Other tools for RAG without programming (overview)
